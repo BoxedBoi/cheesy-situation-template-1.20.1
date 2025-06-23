@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "cheesysituation",
+	"version": "1",
+	"name": "Cheesy Situation",
+	"description": "Adds some yummy cheeses into the game!",
+	"authors": [
+		"BoxedBoi"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "ARR",
+	"icon": "assets/cheesysituation/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.boxedboi.cheesysituation.CheesySituation"
+		],
+		"client": [
+			"net.boxedboi.cheesysituation.CheesySituationClient"
+		],
+		"fabric-datagen": [
+			"net.boxedboi.cheesysituation.CheesySituationDataGenerator"
+		]
+	},
+
+	"mixins": [
+		"cheesysituation.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
