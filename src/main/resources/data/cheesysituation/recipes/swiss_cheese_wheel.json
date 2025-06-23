@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:yellow_dye"
+    },
+    {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    {
+      "item": "minecraft:orange_dye"
+    },
+    {
+      "item": "cheesysituation:curd_bucket"
+    }
+  ],
+  "result": {
+    "item": "cheesysituation:swiss_cheese_wheel",
+    "count": 1
+  }
+}

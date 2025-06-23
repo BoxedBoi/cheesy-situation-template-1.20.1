@@ -1,0 +1,14 @@
+{
+  "item.cheesysituation.curd_bucket": "Curd Bucket",
+  "item.cheesysituation.swiss_cheese_wheel": "Swiss Cheese Wheel",
+  "item.cheesysituation.swiss_cheese_slice": "Swiss Cheese Slice",
+  "item.cheesysituation.feta_cheese_wheel": "Feta Cheese Wheel",
+  "item.cheesysituation.feta_cheese_slice": "Feta Cheese Slice",
+  "item.cheesysituation.chedar_cheese_wheel": "Chedar Cheese Wheel",
+  "item.cheesysituation.chedar_cheese_slice": "Chedar Cheese Slice",
+  "item.cheesysituation.end_cheese_wheel": "End Cheese Wheel",
+  "item.cheesysituation.end_cheese_slice": "End Cheese Slice",
+  "item.cheesysituation.bastion_chedar_wheel": "Bastion Chedar Wheel",
+  "item.cheesysituation.bastion_chedar_slice": "Bastion Chedar Slice",
+  "itemgroup.curd_bucket": "Cheesy Situations"
+}

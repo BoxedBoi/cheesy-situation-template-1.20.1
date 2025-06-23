@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "cheesysituation:chedar_cheese_wheel"
+  },
+  "result": "cheesysituation:chedar_cheese_slice",
+  "count": 4
+}

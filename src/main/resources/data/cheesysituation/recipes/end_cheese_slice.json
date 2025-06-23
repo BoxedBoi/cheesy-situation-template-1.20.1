@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "cheesysituation:end_cheese_wheel"
+  },
+  "result": "cheesysituation:end_cheese_slice",
+  "count": 4
+}

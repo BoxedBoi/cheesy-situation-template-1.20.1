@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cheesysituation:item/end_cheese_wheel"
+  }
+}

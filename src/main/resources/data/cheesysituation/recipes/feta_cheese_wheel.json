@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:tuff"
+    },
+    {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    {
+      "item": "minecraft:tuff"
+    },
+    {
+      "item": "cheesysituation:curd_bucket"
+    }
+  ],
+  "result": {
+    "item": "cheesysituation:feta_cheese_wheel",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "cheesysituation:swiss_cheese_wheel"
+  },
+  "result": "cheesysituation:bastion_chedar_wheel",
+  "experience": 0.5,
+  "cookingtime": 400
+}
